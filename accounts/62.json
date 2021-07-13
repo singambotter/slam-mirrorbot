@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "marine-clarity-319617",
+  "private_key_id": "281308e31486523fbc62b2eaa577fa80f1f244d6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5fzCh0eRmmQP+\n545349ijUPLIPvjL2ItJWxHe0OPFOm5rmyvJgRzBJ1rf6vMHaL0nHij0WxYfi1wg\nHfGPrHgiSXrnQ8YFbxRUn6NjdnMjiXpC119mtpBm4OP0qa+ERecStH+vWNPXTcOG\nWHUfUljJNWSFwmc6staxpi0LSm120rCtLzjyNI9Es3XBwD2lRVJfVlzjemLRU3h4\ne42FCMn1kvDM3Sk9lg0O71N7I7N2v2DrcVNlSmul/ivFcT5CbETn7G49C9Cguxwe\nbE1cmID7pBVmg74sbMUDL4rQGhNRE/Ub+Co5+rk1O2cHqaSTyz9knXDH3rw0V+rf\n6i2NZNYLAgMBAAECggEADcI2XDpSQ53j4vtP4OqgffSaHWo2UABezHEZ0ToTOuTL\nneWjiM2v0U/W+LbXkdwd85HUHdPHv0055xPxf+OeAYULva2UOYD0tBYnK1B019Tx\noZWR+O9fpJHXtqUDZL8+lW+X7OycweJ9tzBGd61G8p2oOBekSoFLVV/rBWRe3CpB\n+Dq0rvZ4cBROTiNDmDboFN39WvTUH7gR3ySOxA+iSJxdWD45QaBb9FQha8cXaNT9\nD5NF/HiHy0zei73sQ+thBYNqa4ombJhdY1pjDdWyHjsyuZK94JacwMO0/hqst5uE\nalbp+D0CdwyktWSYv0T3zbzEpRnSgB3+0ia0ZKJuEQKBgQDyTeGLPZrG68wHqD1E\nkcJOPw234f4u7TS4zX8eMiprkIo00hdVPk6PUsey8HseBt7m+Va/nOZO1rdwCha2\n0pGEwca9sIJGo+5V8eC+l3+JoJbS5tdJh65D65HXJ+21d6JUjLKLQ9X7zta6vCHj\njvEJQ8SU4dTCaaZhK43hhCppaQKBgQDD+0+8rfT5xRbprcib42cxo8g85EyyC5uj\nAeltjZ7j8BX0j7q+C06R+XOHenazdaYhVcd/GWnxvUhtOu8YD4z4CAAXTIU482/S\nq5UsfLKW+/n8rZ/zVfxQW6+5xqFyvf5YJ3Qo4XKXy3MrG7H7sZsCvmNK69wt07nB\nuztacrlBUwKBgH74PKYgRAjU6vdgO6rAzpb+B4xCClZAyo3EcUY7d2siNKn1JXDv\n027bK/YiegGEDC3wnnqOF0lczocRYlGvCb4NZL1lzv6BTJUQyHpXHOfblO0zNcE8\nLh89RBEAxVmANTok+DJt+6WV/4Oergt2jewS7OIvbLPrdNoaXqC8BxVxAoGBALpR\n2JLGx1oWWBw9TbV20orM7PeHDKtQgdzNWoD+3QpTHGxvoNhAo6gAAifQ87zVouWa\nSZm6LZDXpV3DY7/6OMktwfhklVt5hNxCqAWtX5RPZnElGCYdn00+fagfASq3GnHw\nwGyFOY66q3lWUTW6umY3XurBpYgj/DwEpv7shtdlAoGAM0/OrbsReOE5CM11+Pac\nE3OGXUEwurSRg51ADQZu21O4FpCYqn+ZQN1pnjGl9m76olM+3Aaq4tqyOtAiRGMk\n/R/wdIQESNfihHl76aLvNXLuGhZ4XZRt4VikUpRlxGg9gGVKv6VwU2wXJZWl97my\nVI7PIJ15+EzcVnG+9q1786o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-mu5tfk0ipl1-z21dlfdfokq-ns@marine-clarity-319617.iam.gserviceaccount.com",
+  "client_id": "117602379725136082510",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-mu5tfk0ipl1-z21dlfdfokq-ns%40marine-clarity-319617.iam.gserviceaccount.com"
+}
